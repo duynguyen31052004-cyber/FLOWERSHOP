@@ -1,0 +1,3 @@
+Tên dự án: FLOWERSHOP (PHP MVC)
+Công nghệ: PHP thuần, PDO, MySQL, MVC, .htaccess routing
+Chức năng: đăng nhập/đăng ký, sản phẩm, giỏ hàng, checkout, admin CRUD, quản lý đơn, thống kê…
